@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Join Now & Earn Rewards!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #141e30, #243b55);
+            color: white;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+        }
+        .banner {
+            width: 100%;
+            max-height: 300px;
+            object-fit: cover;
+            border-radius: 10px;
+        }
+        h1 {
+            margin-top: 20px;
+        }
+        .btn {
+            display: inline-block;
+            margin: 15px;
+            padding: 15px 25px;
+            font-size: 18px;
+            color: white;
+            background-color: #007bff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: 0.3s;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
+        .benefits {
+            margin: 30px 0;
+            text-align: left;
+            padding: 0 20px;
+        }
+        .benefits ul {
+            list-style: none;
+            padding: 0;
+        }
+        .benefits li {
+            background: #1d2a3a;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .contact {
+            margin-top: 30px;
+            padding: 20px;
+            background: #0f172a;
+            border-radius: 10px;
+        }
+        .contact a {
+            color: #00d4ff;
+            font-weight: bold;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <img src="https://via.placeholder.com/800x300" alt="Banner Image" class="banner">
+        
+        <h1>Earn Rewards by Joining Today!</h1>
+
+        <a class="btn" href="http://www.tk999agent.com/?r=lnz9716" target="_blank">Join Now</a>
+        <a class="btn" href="http://www.tk999agent.com/?r=lnz9716" target="_blank">Learn More</a>
+
+        <div class="benefits">
+            <h2>Why Join?</h2>
+            <ul>
+                <li>✅ Instant rewards upon signing up</li>
+                <li>✅ Exclusive bonuses and promotions</li>
+                <li>✅ Safe and secure transactions</li>
+                <li>✅ 24/7 customer support</li>
+            </ul>
+        </div>
+
+        <div class="contact">
+            <h2>Contact Us</h2>
+            <p>Have questions? Reach out on WhatsApp:</p>
+            <p><a href="https://wa.me/01305867798" target="_blank">📞 01305867798</a></p>
+        </div>
+    </div>
+
+</body>
+</html>
